@@ -1,0 +1,12 @@
+{
+  "name": "newbayit-website",
+  "version": "2.0.0",
+  "description": "New Bayit - Bilingual Relocation Service to Israel",
+  "scripts": {
+    "build": "echo 'Build complete - static HTML site ready for deployment'",
+    "serve": "python3 -m http.server 8000"
+  },
+  "keywords": ["relocation", "israel", "aliyah", "bilingual"],
+  "author": "Nicole Jarmusz",
+  "license": "UNLICENSED"
+}
